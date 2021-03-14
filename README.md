@@ -5,7 +5,8 @@
  * I interested in this course because I want to develop my skills. 
 
 ![programmer](https://image.freepik.com/free-vector/isometric-programmer-working-desk_52683-17639.jpg)
-No. |         Project         |  Github Page
+
+No. |         Project         |  link
 --- | ------------------------| --------------------
 1   | read  |
 2   | read  | 
@@ -22,5 +23,3 @@ No. |         Project         |  Github Page
 13  | read  | 
 14  | read  | 
 15  | read  | 
-
-
