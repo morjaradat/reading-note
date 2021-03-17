@@ -405,5 +405,4 @@ the processing (not necessarily true or fa1se).
 
 ![photo](./image/27.png)
 
-
 ![photo](./image/28.png)
